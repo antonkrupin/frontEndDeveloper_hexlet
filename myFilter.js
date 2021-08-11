@@ -8,7 +8,7 @@ const myFilter = (arr, template) => {
             }
         }
         if (counter === templateKeys.length) {
-            return e
+            return e;
         }
     })
 
